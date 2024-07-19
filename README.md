@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Scruffy123
 - 👀 I’m interested in ...coding
 - 🌱 I’m currently learning ...Linux and coding
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...learning coding
+- 💞️ I’m looking to collaborate on ...coding
+- 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...Im an Artist
 
